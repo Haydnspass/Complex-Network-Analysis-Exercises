@@ -1,0 +1,20 @@
+
+name: complex_network
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+
+  - matplotlib
+  - pandas
+  - pydantic
+  - python=3.9
+  - pytest
+  - seaborn
+  - python-igraph
+
+  - ipykernel
+
+  - pip
