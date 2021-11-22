@@ -15,6 +15,9 @@ dependencies:
   - seaborn
   - python-igraph
 
-  - ipykernel
+  # - ipykernel
+  - jupyterlab
 
   - pip
+  - pip:
+    - powerlaw
