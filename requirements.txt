@@ -1,0 +1,8 @@
+matplotlib
+pandas
+pydantic
+pytest
+seaborn
+igraph
+  # - ipykernel
+jupyterlab
